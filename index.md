@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Nojo, zkouším to"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Moje první webová stránka ...
